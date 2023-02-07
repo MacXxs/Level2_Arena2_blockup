@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Blockup.unity
+    guid: fb094b1483d6ec9499aa5f9a5bbabdda
   m_configObjects: {}
